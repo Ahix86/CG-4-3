@@ -3,6 +3,8 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>CG 4-3</AssemblyName>
+    <RootNamespace>CG 4-3</RootNamespace>
   </PropertyGroup>
 
 </Project>
